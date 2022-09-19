@@ -1,7 +1,7 @@
 /* @import url('../../keycloak/lib/zocial/zocial.css');*/
 
 body {
-    background-color: rgb(63,81,181);
+    background-color: rgb(218,160,169) /*rgb(63,81,181)*/;
     /*background-image: url('../img/bkgrnd.jpg');*/
     background-position: center center;
     background-attachment: fixed;
